@@ -1,0 +1,20 @@
+{
+    "haben" : {
+        "meaning" : "to have",
+        "Präsens" : {
+            "ich" : "habe",
+            "du" : "hast",
+            "er/sie/es" : "hat",
+            "wir" : "haben",
+            "ihr" : "habt",
+            "Sie" : "haben"
+        }, "Präteritum" : {
+            "ich" : "hatte",
+            "du" : "hattest",
+            "er/sie/es" : "hatte",
+            "wir" : "hatten",
+            "ihr" : "hattet",
+            "Sie" : "hatten"
+        }, "Partzip Perfekt" : "gehabt"
+    }
+}
